@@ -1,0 +1,1 @@
+Hello World! I'm doing this project supported by a course to study a little more about DOM and DOM manipulation with JS. This project is still in production, so you may encounter bugs, dirty code and incomplete tasks on it. Enjoy it!
